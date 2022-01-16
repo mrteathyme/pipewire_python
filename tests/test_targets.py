@@ -1,7 +1,7 @@
 from pipewire_python.controller import Controller
 
 
-def test_interfaces():
+def test_targets():
 
     # Client
     audio_controller = Controller()
